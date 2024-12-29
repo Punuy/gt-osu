@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Prompt";
+    src: url("Prompt/Prompt-Thin.ttf");
+}
+
+#combo {
+    font-family: Prompt;
+    font-size: 30pt;
+    text-align: center;
+    padding-right: 20px;
+    letter-spacing: 1px;
+
+    color: white;
+}

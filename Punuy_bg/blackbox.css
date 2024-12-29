@@ -1,0 +1,12 @@
+#blackbox {
+    background: rgb(0, 0, 0);
+    
+    width: 300px;
+    height: 1080px;
+    line-height: 60px;
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding: 100px;
+    box-shadow: 0 0 5px #000;
+}
