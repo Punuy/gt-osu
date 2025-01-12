@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Prompt";
+  src: url("Prompt/Prompt-Thin.ttf");
+}
+
+#blackbox {
+  background: rgb(0, 0, 0, 1);
+  width: 505px;
+  height: 100px;
+}
+
+h1 { 
+  font-family: Prompt;
+  font-size: 10pt;
+  color: white;
+  padding-top: 3px;
+}
