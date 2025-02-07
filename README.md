@@ -1,4 +1,4 @@
-# gosu
+# gosumemory & tosu
 
 for my mania obs overlay
 
